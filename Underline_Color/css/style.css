@@ -1,0 +1,12 @@
+a{
+    color: blue; /*muda a cor do link*/
+    text-transform: uppercase; /*aumenta o tamanho do texto*/
+}
+
+a:link{
+    text-decoration:none; /*tirar a decoração do link "__"*/
+}
+
+a:hover{ /*ao passar o mouse add uma borda de baixo do link*/
+    border-bottom: 2px solid red;
+}

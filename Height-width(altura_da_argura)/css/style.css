@@ -1,0 +1,9 @@
+h1{
+    background-color: lightblue;
+    height: 100px; /*aumenta a altura do objeto na pagina*/
+}
+
+h2{
+    background-color: lightblue;
+    width:50%;/*aumenta a largura do objeto utilizando 50% da pagina*/
+}

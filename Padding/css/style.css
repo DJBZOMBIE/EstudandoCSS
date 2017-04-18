@@ -1,0 +1,13 @@
+p.p1{
+    background-color: lightblue;
+    /*padding-top:30px; = espaçamento interno de 30px do topo do paragrafo*/
+    padding:50px; /*espaçamento interno da dir, esq, topo e baixo do paragrafo*/
+}
+
+p.p2{ /*este é outro metodo de colocar padding*/
+   background-color: lightblue;
+   padding-top: 25px;
+   padding-bottom: 25px;
+   padding-left:50px;
+   padding-right: 50px; 
+}

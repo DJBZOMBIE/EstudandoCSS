@@ -1,0 +1,15 @@
+.highlight:hover{/*quando passar o mouse em qualquer parte da classe*/
+    color:#ccc; 
+    transition: color 2s ease; /*efeito de transição*/
+    
+}
+
+.highlight span{ /*pega o conteudo dentro da tag span*/
+    display: inline-block;
+    transition: all 2s ease; /*coloca transição no conteudo dentro da tag span e depois se espalha pro conteudo todo*/
+}
+
+.highlight:hover span{ /*quando passar o mouse dentro da tag span*/
+    background-color: yellow;
+    color:#000;
+}

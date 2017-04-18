@@ -1,0 +1,7 @@
+div{ /*configurando o modelo da caixa*/
+    background-color:lightblue;
+    width: 200px; /*largura de 200px da tela*/
+    padding:25px;
+    border:solid navy 25px;
+    margin: 25px;
+}

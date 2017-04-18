@@ -1,0 +1,10 @@
+.quote{ /*chama a classe quote*/
+    padding: 10px;
+    background: /*inserindo duas imagens de background*/
+        url(images/open-quotes.png) left no-repeat, /*posicionando na esquerda*/
+        url(images/close-quotes.png) right no-repeat;/*posicionando na direita*/
+    background-size: 100px 100px;/*especifica o tamanho da imagem de background*/
+    font-size: 2em; /*aumenta o tamanho da fonte*/
+    text-align: center; 
+    width: 20em; /*largura do texto com a imagem(as duas se junta ou não)*/
+}

@@ -1,0 +1,15 @@
+h1{
+    background-color:lightblue;
+    width: 300px;
+   /* margin-left:20px; = adiciona espaçamento externo do lado esquerdo da pagina*/
+     margin:20px;
+     margin:auto; /*adiciona espaçamento externo da dir,esq,top,baixo da pagina*/
+}
+
+h2{ /*este é outro jeito de inserir margin na pagina*/
+    background-color:lightblue;
+    margin-top:50px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}

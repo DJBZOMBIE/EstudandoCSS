@@ -1,0 +1,11 @@
+p.p1{
+    /*border: dotted 4px; == adiciona borda pontilhada*/
+    border-top-style: dotted; /*configura a parte de cima da borda*/
+    border-top-width: 4px; /*configura a grossura da borda*/
+    border-top-color: red;
+    
+}
+
+p.p2{
+    border:solid 4px green;
+}
