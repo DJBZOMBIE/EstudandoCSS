@@ -1,0 +1,54 @@
+*{
+    margin:0px;
+    padding:0px;
+    float: none;
+}
+body{
+  background: url(images/Anime.jpg) no-repeat;
+  padding:2px 100px;
+ 
+}
+
+div.head{
+    background-color: yellow;
+    height: 70px;
+    width: 90%;
+    padding: 30px 54px;
+    text-align: center;
+    border: solid 2px black;
+    opacity: 0.7;
+}
+
+div.pesquisa{
+    text-align: center;
+    background-color:red;
+    width: 90px;
+    height: 16px;
+    border:solid navy 2px;
+    padding: 2px;
+    margin:2px;
+    position: absolute;
+    right: 165px;
+    top:90px;
+}
+
+div.corpo{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: #CD5C5C;
+    width:97%;
+    height:700px;
+    border:solid 2px black;
+    padding-top: 3px;
+    padding-left: 4px;
+   opacity: 0.8;
+    
+}
+
+div.corpo div.conteudo1{
+    background-color: black;
+    width:200px;
+    height: 300px;
+    border:solid 1px black;
+    padding:2px 3px;
+}
