@@ -1,0 +1,34 @@
+background
+height
+width
+text
+color
+font
+font-family
+margin
+padding
+opacity
+border
+line-height:40px;
+box-sizing:border-box
+box-shadow
+transition:(color 2s ease)or(all 2s ease)
+-webkit-transform:scale(1.3);
+    -ms-transform:scale(1.3);
+    transform:scale(1.3);
+float
+display:inline-bloc;
+overflow:hidden;
+background-position
+list-style: none;
+
+===========
+html
+<blockquote></>
+<span></>
+<link rell"alternate stylesheet" href="style.css" title="titulo">
+<i></i>
+<li><a href="#content-1">Content 1</a></li>
+<section id="content-1"></section>
+<br/>
+<strong></strong>
